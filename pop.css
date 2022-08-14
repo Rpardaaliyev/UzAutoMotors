@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+p{
+    color: red;
+    margin: 20px 60px 20px  60px;
+}
+
+h1{
+    color: chartreuse;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h2{
+color: aquamarine;
+padding-top: 30px;
+}
+
+h3{
+color: blue;
+}
+
+h4{
+color: black;
+}
+
+h5{
+color: blue;
+}
+
+body{
+    background: url('./rasmlar/133113354.jpg') no-repeat center center / cover;
+}
+
+ul {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    
+}
+
+
+
